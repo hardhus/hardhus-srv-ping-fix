@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.hardhus.srvpingfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ServerStatusPingerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
